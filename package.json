@@ -9,7 +9,7 @@
   "bin": {
     "ci-demo": "./index.js"
   },
-  "author": "CIS 188",
+  "author": "CIS 188 - damian2221",
   "license": "ISC",
   "dependencies": {
     "jest": "^26.6.3",
